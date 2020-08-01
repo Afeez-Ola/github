@@ -8,7 +8,7 @@ labels: enhancement
 
 Brief explanation of this feature-requestmd
 
-### Basic example 
+### Basic example
 
 if the proposal involves a new changed API, include a basic code example. Omit this section if it's not applicable.
 
